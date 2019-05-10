@@ -13,6 +13,7 @@ namespace Projektas
             double rutulio_plotas = 4 * Math.PI * 6371*6371;
             double rutulio_turis = 4/3 * Math.PI* 6371*6371*6371;
             double izamb_ilgis = 10 * 10 * 15 * 15;
+            double kvadrato_plotas = 10;
 
             double suma = rutulio_plotas + rutulio_turis + izamb_ilgis;
             double vidurkis = suma / 3;
