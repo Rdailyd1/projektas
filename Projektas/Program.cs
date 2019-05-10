@@ -23,6 +23,7 @@ namespace Projektas
             Console.WriteLine("Suma={0}", suma);
             Console.WriteLine("Vidurkis={0}", vidurkis);
             Console.ReadLine();
+
         }
     }
 }
