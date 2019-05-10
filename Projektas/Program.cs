@@ -10,6 +10,9 @@ namespace Projektas
     {
         static void Main(string[] args)
         {
+            double rutulio_plotas = 0;
+            double rutulio_turis = 0;
+            double izamb_ilgis = 0;
         }
     }
 }
