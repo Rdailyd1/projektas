@@ -13,6 +13,11 @@ namespace Projektas
             double rutulio_plotas = 0;
             double rutulio_turis = 0;
             double izamb_ilgis = 0;
+
+            double suma = rutulio_plotas + rutulio_turis + izamb_ilgis;
+            double vidurkis = suma / 3;
+            Console.WriteLine("Suma={0}", suma);
+            Console.WriteLine("Vidurkis={0}", vidurkis);
         }
     }
 }
